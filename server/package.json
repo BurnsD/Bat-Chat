@@ -11,5 +11,10 @@
     "url": "github.com/BurnsD/bat-chat"
   },
   "author": "codingHippie",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "gun": "^0.2020.1236"
+  }
 }

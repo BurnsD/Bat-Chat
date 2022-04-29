@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Dustin Burns <DUstinburnsactech@gmail.com>",
+  "author": "Dustin Burns <DustinBurnsDev@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
